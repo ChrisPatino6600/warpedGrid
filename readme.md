@@ -1,1 +1,1 @@
-This is a placeholder for the readme. I'll add to this later.
+The Jupyter notebook in this repository contains code for generating an SVG that can be used to cut a warped grid puzzle with a laser cutter in the style of George Hart's warped grid puzzles as seen here: https://www.georgehart.com/jigsaw/index.html 
